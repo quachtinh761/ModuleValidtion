@@ -1,0 +1,12 @@
+{
+    "name": "module-validation",
+    "description": "Package to make you can validation and get your message by module automatically",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nguyen Van Tinh",
+            "email": "quachtinh761@gmail.com"
+        }
+    ],
+    "require": {}
+}
